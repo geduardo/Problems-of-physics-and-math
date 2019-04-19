@@ -1,0 +1,100 @@
+\documentclass[english,11pt]{article}
+\usepackage{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{blindtext}
+\usepackage{textcomp} 
+\usepackage[dvipsnames]{xcolor}
+\usepackage{graphicx}
+\usepackage{geometry}
+ \geometry{
+ a4paper,
+ right=19mm,
+ bottom=19mm,
+ left=32mm,
+ top=19mm,
+}
+\usepackage{amsmath,amsfonts,amssymb,amsthm,epsfig,epstopdf,titling,url,array}
+\usepackage{physics}
+\usepackage{color}
+\usepackage{braket}
+\usepackage{dsfont}
+\usepackage{mathrsfs}
+\usepackage[colorlinks,allcolors=blue]{hyperref}
+\theoremstyle{definition}
+\newtheorem{defn}{Definición}[section]
+\newtheorem{conj}{Conjecture}[section]
+\newtheorem{exmp}{Example}[section]
+\usepackage{float}
+\usepackage{wrapfig}
+\theoremstyle{plain}
+\newtheorem{thm}{Teorema}[section]
+\newtheorem{lem}[thm]{Lema}
+\newtheorem{prop}[thm]{Proposition}
+\newtheorem*{cor}{Corollary}
+
+\begin{document}
+\title{Team information}
+\maketitle
+\section*{Stats of the team:}
+\textbf{Shields:} 6/6 \\
+\textbf{Lives remaining:} 3 \\
+\textbf{Nº of players:} 5 \\
+\textbf{Nº of active players:} 4/5 \\
+\textbf{Nº of spectator players:} 1/5 \\
+\textbf{Nº of problems solved:} 0\\ 
+\textbf{Nº of problems failed:} 0 \\
+\section*{Members of the team}
+¡Here you can find all the information about the members of the team!  
+\subsection*{\underline{Eduardo Gonzalez}}
+\begin{itemize}
+\item[\textbf{Age:}] 23
+\item[\textbf{Gender:}] Male
+\item[\textbf{Studies:}] Physics BSc (Universidad Autónoma de Madrid). Currently doing a MSc of Theoretical Physics at ETH Zürich.
+\item[\textbf{Skills:}] Specialised in Quantum Information. Knowledge of Python and Matlab. Good at searching things on Internet.  
+\item[\textbf{Description:}] Spanish student currently doing a master of Theoretical Physics focused on Quantum Information Theory. As you can clearly see a pure procrastinator.
+\item[\textbf{Status:}] Active player
+\end{itemize}
+
+
+\subsection*{\underline{Enac Gallardo}}
+\begin{itemize}
+\item[\textbf{Age:}] 23
+\item[\textbf{Gender:}] Male
+\item[\textbf{Studies:}] Physics BSc(Universidad Autónoma de Madrid and Ruprecht-Karls-Universität Heidelberg). Currently doing a PhD in Plasma Physics and Fusion Energy at University of Nevada.
+\item[\textbf{Skills:}] Knowledge of Matlab, Python and c++.
+\item[\textbf{Description:}] Spanish student, he studied with Eduardo in Madrid and now he is doing a PhD in plasma physics and fusion energy in the USA.
+\item[\textbf{Status:}] Active player
+\end{itemize}
+
+\subsection*{\underline{Kiyo Higuchi}}
+\begin{itemize}
+\item[\textbf{Age:}] 25
+\item[\textbf{Gender:}] Female
+\item[\textbf{Studies:}] Medical Physics BSc (Pontifical Catholic University of Rio Grande do Sul and Universidad Autónoma de Madrid). Currently doing a MSc in materials engineering and working with medical imaging.
+\item[\textbf{Skills:}] 
+\item[\textbf{Description:}] "I'm Kiyo, I studied with Eduardo for one semester at UAM, so I might know a few of you. I'm from Brazil and have a BSc degree in medical physics. My theoretical physics knowledge is very superficial due to my course's focus. I'm currently doing an MSc in materials engineering and working with medical imaging (micro-positron emission tomography and in vivo fluorescence) to study the neurotoxic effects of ureases, which are enzymes synthesized by plants, fungi and bacteria. I believe I'll be more of a spectator than an active player, but I'm very glad to be in contact with people from all over the world and keeping in touch with former UAM mates!"
+\item[\textbf{Status:}] Semiactive? player
+\end{itemize}
+
+\subsection*{\underline{Jose Armengol}}
+\begin{itemize}
+\item[\textbf{Age:}] 24
+\item[\textbf{Gender:}] Male
+\item[\textbf{Studies:}] Physics and Mathematics BSc (University of Barcelona). Future biophysics MSc student.
+\item[\textbf{Skills:}] 
+\item[\textbf{Description:}] "Hello, my name is Jose, I met Eduardo in Donosti while doing an internship in DIPC. I studied both physics and mathematics in the University of Barcelona and I am planning to start a master's degree next course, probably related to biophysics. Nice to meet u guys!"
+\item[\textbf{Status:}] Active player
+\end{itemize}
+
+\subsection*{\underline{Cristian Tabares}}
+\begin{itemize}
+\item[\textbf{Age:}] 20
+\item[\textbf{Gender:}] Male
+\item[\textbf{Studies:}] $3^\text{rd}$ Physics BSc student (Universidad Autónoma de Madrid).
+\item[\textbf{Skills:}] 
+\item[\textbf{Description:}] "Hi, my name is Cristian. I met Eduardo while he was studying at UAM. I'm studying physics there, currently in my third year. I'm glad to meet you!"
+\item[\textbf{Status:}] Active player
+\end{itemize}
+
+
+\end{document}
